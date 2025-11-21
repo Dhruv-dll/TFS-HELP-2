@@ -14,12 +14,191 @@
       "comingSoon": false
     },
     "networking-events": {
-      "comingSoon": true
+      "events": [
+        {
+          "title": "Alumni Networking Mixer - Spring 2024",
+          "description": "Connect with successful BAF alumni working in top financial institutions like HDFC, ICICI, Axis Bank, and leading consulting firms. Share career journeys, job opportunities, and industry insights over refreshments."
+        },
+        {
+          "title": "Industry Professionals Speed Networking Session",
+          "description": "A fast-paced networking session where students directly interact with CFOs, fund managers, and investment bankers from leading organizations. Perfect for understanding diverse career paths in finance."
+        },
+        {
+          "title": "FinTech Startup Founders Meetup",
+          "description": "Meet and connect with innovative founders building the next generation of financial technology solutions. Explore internship and employment opportunities in the rapidly growing fintech ecosystem."
+        },
+        {
+          "title": "Women in Finance Networking Breakfast",
+          "description": "An exclusive networking event celebrating women leaders in finance. Hear inspiring stories from female CFOs, investment bankers, and entrepreneurs, and build meaningful connections."
+        },
+        {
+          "title": "Corporate Recruiter Connect Session",
+          "description": "Direct interaction with hiring managers from HDFC Bank, Goldman Sachs, Morgan Stanley, and other top-tier organizations. Learn about internship and full-time opportunities in investment banking and corporate finance."
+        },
+        {
+          "title": "Angel Investors & Venture Capitalists Forum",
+          "description": "Network with experienced investors and entrepreneurs. Understand the venture capital ecosystem, angel investing opportunities, and learn how startups scale in the Indian financial market."
+        }
+      ],
+      "comingSoon": false
     },
     "flagship-event": {
-      "comingSoon": true
+      "events": [
+        {
+          "title": "Annual Finance Conclave 2024 - Core Finance Panel",
+          "description": "Two-day premier finance summit featuring senior finance leaders discussing navigating uncertainty, strategic decision-making, and converting challenges into opportunities. Includes keynote sessions, panel discussions, workshops, and networking."
+        },
+        {
+          "title": "Flagship Conclave 2024 - Media and Creativity Panel",
+          "description": "Explore how storytelling intersects with business through discussions with founders, Netflix executives, and media leaders. Understand how creative risks influence markets and shape culture."
+        },
+        {
+          "title": "Flagship Conclave 2024 - Sustainability Leadership Panel",
+          "description": "Distinguished leaders from financial services, automotive, and corporate sectors sharing 50+ years of combined experience in ESG strategy, sustainability reporting, and organizational transformation."
+        },
+        {
+          "title": "Flagship Conclave 2024 - Startups and Innovation Panel",
+          "description": "Dynamic founders building next-generation consumer brands and fintech solutions. Discover the realities of product experimentation, distribution challenges, and building in the Indian market."
+        },
+        {
+          "title": "Finance Conclave 2024 - Investment Strategies Workshop",
+          "description": "Hands-on workshop on portfolio management, investment analysis, and wealth creation strategies. Learn from experienced portfolio managers and investment advisors with proven track records."
+        },
+        {
+          "title": "Flagship Conclave 2024 - Career Development Session",
+          "description": "Comprehensive guidance on building successful careers in finance. Topics include consulting, investment banking, wealth management, and emerging opportunities in fintech and blockchain."
+        }
+      ],
+      "comingSoon": false
     }
   },
-  "upcomingEvents": [],
-  "lastModified": 1757600736630
+  "upcomingEvents": [
+    {
+      "id": "upcoming-1",
+      "title": "Monthly Networking Breakfast - February 2025",
+      "date": "2025-02-15",
+      "time": "8:00 AM - 10:00 AM",
+      "location": "St. Xavier's College, Mumbai - Seminar Hall",
+      "description": "Monthly informal networking session with finance professionals. Enjoy breakfast while connecting with alumni and industry experts. Perfect for career guidance and job opportunities.",
+      "registrationLink": "https://forms.google.com/networking-feb-2025",
+      "countdown": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      }
+    },
+    {
+      "id": "upcoming-2",
+      "title": "Saturday Finance Workshop: Investment Analysis 101",
+      "date": "2025-02-22",
+      "time": "10:00 AM - 1:00 PM",
+      "location": "St. Xavier's College, Mumbai - Auditorium",
+      "description": "Learn fundamental investment analysis techniques from seasoned portfolio managers. Topics include stock valuation, financial ratio analysis, and building investment portfolios.",
+      "registrationLink": "https://forms.google.com/workshop-investing-feb-2025",
+      "countdown": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      }
+    },
+    {
+      "id": "upcoming-3",
+      "title": "Women Leaders in Finance Panel Discussion",
+      "date": "2025-03-08",
+      "time": "3:00 PM - 5:00 PM",
+      "location": "Online (Zoom)",
+      "description": "International Women's Day special: Inspiring panel discussion with female CFOs, investment bankers, and entrepreneurs. Celebrate achievements and explore opportunities for women in finance.",
+      "registrationLink": "https://forms.google.com/women-finance-march-2025",
+      "countdown": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      }
+    },
+    {
+      "id": "upcoming-4",
+      "title": "Flagship Finance Conclave 2025 - 3 Day Summit",
+      "date": "2025-03-21",
+      "time": "9:00 AM - 6:00 PM",
+      "location": "St. Xavier's College, Mumbai - Main Campus",
+      "description": "Annual flagship event bringing together 500+ finance professionals, students, and industry leaders. Features keynotes from CEOs, panel discussions on market trends, investment workshops, startup pitches, and extensive networking.",
+      "registrationLink": "https://forms.google.com/conclave-2025",
+      "countdown": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      }
+    },
+    {
+      "id": "upcoming-5",
+      "title": "FinTech Bootcamp: Building Financial Apps",
+      "date": "2025-04-05",
+      "time": "2:00 PM - 5:00 PM",
+      "location": "St. Xavier's College, Mumbai - IT Lab",
+      "description": "Practical bootcamp on developing financial technology solutions. Learn modern fintech stack, API integration, payments, and blockchain fundamentals from experienced fintech developers.",
+      "registrationLink": "https://forms.google.com/fintech-bootcamp-april-2025",
+      "countdown": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      }
+    },
+    {
+      "id": "upcoming-6",
+      "title": "Corporate Finance Masterclass with Industry CFOs",
+      "date": "2025-04-19",
+      "time": "10:00 AM - 2:00 PM",
+      "location": "St. Xavier's College, Mumbai - Conference Room",
+      "description": "Exclusive masterclass covering corporate finance fundamentals: financial planning, capital budgeting, mergers & acquisitions, and risk management. Direct interaction with practicing CFOs from Fortune 500 companies.",
+      "registrationLink": "https://forms.google.com/corporate-finance-april-2025",
+      "countdown": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      }
+    },
+    {
+      "id": "upcoming-7",
+      "title": "Sustainability & ESG Investment Forum",
+      "date": "2025-05-10",
+      "time": "11:00 AM - 4:00 PM",
+      "location": "St. Xavier's College, Mumbai - Auditorium",
+      "description": "Comprehensive forum on environmental, social, and governance investing. Learn how sustainable finance is reshaping investment decisions with insights from ESG specialists and impact investors.",
+      "registrationLink": "https://forms.google.com/esg-forum-may-2025",
+      "countdown": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      }
+    },
+    {
+      "id": "upcoming-8",
+      "title": "Crypto & Blockchain in Finance Seminar",
+      "date": "2025-05-24",
+      "time": "3:00 PM - 6:00 PM",
+      "location": "Online (Zoom)",
+      "description": "Deep dive into cryptocurrency, blockchain technology, and their applications in finance. Understand DeFi, smart contracts, and the regulatory landscape of digital assets.",
+      "registrationLink": "https://forms.google.com/crypto-seminar-may-2025",
+      "countdown": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      }
+    },
+    {
+      "id": "upcoming-9",
+      "title": "Private Equity & M&A Workshop",
+      "date": "2025-06-07",
+      "time": "2:00 PM - 5:00 PM",
+      "location": "St. Xavier's College, Mumbai - Seminar Hall",
+      "description": "Learn the intricacies of private equity investing and mergers & acquisitions. Case studies of successful deals, valuation techniques, and career opportunities in PE and M&A.",
+      "registrationLink": "https://forms.google.com/pe-ma-workshop-june-2025",
+      "countdown": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0
+      }
+    }
+  ],
+  "lastModified": 1739884000000
 }
